@@ -2,4 +2,5 @@
 myvenv
 db.sqlite3
 media
+secrets.json
 echo .DS_Store >> .gitignore
